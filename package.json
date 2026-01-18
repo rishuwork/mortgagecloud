@@ -76,4 +76,7 @@
     "typescript": "^5.8.3",
     "wrangler": "^3.99.0"
   }
+  "browser": {
+    "async_hooks": "./lib/async-hooks-shim.js"
+  }
 }
