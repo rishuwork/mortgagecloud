@@ -1,0 +1,16 @@
+{
+    "name": "Rishab Ahuja - Mortgage Broker",
+    "short_name": "Mortgage Expert",
+    "description": "Ontario-based mortgage broker helping Canadians get the best rates",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#1a365d",
+    "icons": [
+        {
+            "src": "/favicon.ico",
+            "sizes": "48x48",
+            "type": "image/x-icon"
+        }
+    ]
+}

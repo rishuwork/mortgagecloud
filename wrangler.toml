@@ -1,0 +1,6 @@
+name = "mortgage-navigator"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = ".vercel/output/static"
+
+[vars]
+NEXT_PUBLIC_SITE_URL = "https://rishabahuja.ca"
